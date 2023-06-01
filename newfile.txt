@@ -1,1 +1,1 @@
-Some text
+Some textanother line in the file
