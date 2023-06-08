@@ -1,4 +1,4 @@
-Some texanother line in the file
+Some texanother line in the file12
 
 one line12
 another line
@@ -41,7 +41,6 @@ There are many variations of passages of Lorem Ipsum available, but the majority
 	paragraphs
 	words
 	bytes
-	lists
 	Start with 'Lorem
 ipsum dolor sit amet...'
 
@@ -68,7 +67,7 @@ Section 1.10.32 of "de Finibus Bonorum et Malorum", written by Cicero in 45 BC
 
 
 
-No one rejects, dislikes, or avoids pleasure itself, because it is pleasure, but because those who do not know how to pursue pleasure rationally encounter consequences that are extremely painful. Nor again is there anyone who loves or pursues or desires to obtain pain of itself, because it is pain, but because occasionally circumstances occur in which toil and pain can procure him some great pleasure. 
+No one rejects,.. dislikes, or avoids pleasure itself, because it is pleasure, but because those who do not know how to pursue pleasure rationally encounter consequences that are extremely painful. Nor again is there anyone who loves or pursues or desires to obtain pain of itself, because it is pain, but because occasionally circumstances occur in which toil and pain can procure him some great pleasure. 
 
 
 
